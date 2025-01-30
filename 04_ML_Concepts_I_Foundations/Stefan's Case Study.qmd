@@ -1,0 +1,33 @@
+# Stefan's Case Study Responses
+
+## Problem focus questions
+
+### Q1
+
+The main problem the organization is facing is the billions of dollars that U.S. education system wastes annually on software.
+
+### Q2
+
+The target variable is the type of the software to use. This is a classification solution because the data is discrete, as the type of software is not numeric.
+
+### Q3
+
+They would know the solution is working when there is less money wasted on the software while student performance and teacher satisfaction improve.
+
+### Q4
+
+The team faces the issue of trying to scale the recommender engine nationwide. This could be difficult because other the recommender engine will need to be trained to account for changes in demographics in other districts, as well as different budgets and priorities. They also face the issue of trying to develop a recommender engine that is tailored to individual schools in U.S. districts. However, they are working with a small dataset due to response bias from districts in the midwest, making it more difficult to draw conclusions about these districts.
+
+## Data to Concept Questions
+
+### Q1
+
+The current method of data gathering is not difficult, as people simply have to respond to a survey using a Likert scale. However, a challenge may arise due to response bias, as no district contributed more than 100 responses. This can make it more difficult to accurately draw conclusions about data that is representative of each district.
+
+### Q2
+
+The target is difficult to measure and break into smaller pieces because of the response bias in the small data set. This is why the team developed a plan to identify correlations and outliers in certain districts in order to cluster districts by similar characteristics for the machine learning model.
+
+### Q3
+
+I would be willing to accept a fairly low level of risk. I think it is okay to have some risk associate with the response bias from the data gathering, but the rest of the product development should be very low risk. It is important that this recommender engine works accurately, as it could improve the education system in the U.S. while saving billions of dollars annually. 

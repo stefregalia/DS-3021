@@ -35,4 +35,6 @@ tornado==6.4.2
 traitlets==5.14.3
 tzdata==2024.2
 wcwidth==0.2.13
-plotly==5.15.0
+plotly==5.24.1
+ucimlrepo==0.0.7
+scikit-learn==1.6.1
